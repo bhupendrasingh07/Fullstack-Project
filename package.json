@@ -15,8 +15,8 @@
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
-    "formate:fix": "npx prettier . --write",
-    "format:check": "npx prettier . --check",
+    "formate:fix":"npx prettier . --write",
+    "formate:check":"npx prettier . --check",
     "dev": "node dist/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
